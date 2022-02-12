@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 👋 Hello, I'm Ilman
+## 👋 PowerMX
 
 ![Banner](elaina.jpg) <br />
 [<img src="https://img.shields.io/twitter/url?style=social&url=powermx&style=for-the-badge&logo=instagram&logoColor=white">](https://www.powsitos.xyz)
@@ -21,5 +21,5 @@
 
 ---
 
-[![Ilmanhdyt GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilmanhdyt&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
-[![Ilmanhdyt Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ilmanhdyt&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+[![Ilmanhdyt GitHub Stats](https://github-readme-stats.vercel.app/api?username=powermx&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![Ilmanhdyt Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=powermx&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
