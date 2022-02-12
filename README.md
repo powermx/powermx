@@ -2,13 +2,12 @@
 
 ## 👋 PowerMX
 
-![Banner](elaina.jpg) <br />
-[<img src="https://img.shields.io/twitter/url?style=social&url=powermx&style=for-the-badge&logo=instagram&logoColor=white">](https://www.powsitos.xyz)
+![](https://avatars1.githubusercontent.com/u/29370715?s=400&v=4)
 
 ### ℹ &nbsp;PowerMX
-- 💻 Programmer `Math` 🚀.
-- 🔭 I'm currently working on my side project.
-- Primary Language(s): &nbsp;
+- 💻 Programador aficionado `PowerMX` 🚀.
+- 🔭 Actualmente trabajo en varios proyectos.
+- Lenguajes que actualmente estoy trabajando(s): &nbsp;
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
