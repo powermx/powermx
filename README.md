@@ -28,5 +28,5 @@
 
 ---
 
-[![PowerMX GitHub Stats](https://github-readme-stats.vercel.app/api?username=powermx&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
-[![PowerMX Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=powermx&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+[![Estadisticas GitHub](https://github-readme-stats.vercel.app/api?username=powermx&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![PowerMX Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs?username=powermx&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
