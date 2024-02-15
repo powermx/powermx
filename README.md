@@ -28,3 +28,5 @@
 [![Estadisticas GitHub](https://github-readme-stats.vercel.app/api?username=powermx&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
 [![PowerMX Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs?username=powermx&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
 <img width="444em" src="https://github-profile-trophy.vercel.app/?username=powermx&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=juicyfresh&no-frame=true&no-bg=true" alt="powermx"/>
+
+> Telegram : https://t.me/PowerMX | https://t.me/vpnmx
